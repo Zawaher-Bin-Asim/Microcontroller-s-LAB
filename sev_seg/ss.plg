@@ -1,0 +1,37 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\Keil Projects\sev_seg\ss.uvproj
+Project File Date:  10/23/2023
+
+<h2>Output:</h2>
+Rebuild target 'Target 1'
+assembling startup_TM4C123.s...
+compiling ss.c...
+ss.c(156): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=896 RO-data=648 RW-data=0 ZI-data=608  
+FromELF: creating hex file...
+".\ss.axf" - 0 Errors, 1 Warning(s).
+Load "D:\\Keil Projects\\sev_seg\\ss.axf" 
+Connecting: Mode=SWD, Speed=1000000Hz
+Full Chip Erase Done.
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Target 1'
+assembling startup_TM4C123.s...
+compiling ss.c...
+ss.c(156): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=900 RO-data=648 RW-data=0 ZI-data=608  
+FromELF: creating hex file...
+".\ss.axf" - 0 Errors, 1 Warning(s).
+Load "D:\\Keil Projects\\sev_seg\\ss.axf" 
+Connecting: Mode=SWD, Speed=1000000Hz
+Full Chip Erase Done.
+Erase Done.
+Programming Done.
+Verify OK.

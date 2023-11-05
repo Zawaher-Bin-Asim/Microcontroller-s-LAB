@@ -1,0 +1,11 @@
+Dependencies for Project 'Interuppt', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_TM4C123.s)(0x6539F9E9)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I "D:\mps soft\ARM\RV31\INC"-I "D:\mps soft\ARM\CMSIS\Include"-I "D:\mps soft\ARM\Inc\TI\TM4C123"--list .\startup_tm4c123.lst --xref -o .\startup_tm4c123.o --depend .\startup_tm4c123.d)
+F (.\Interuppt.c)(0x65395520)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I "D:\mps soft\ARM\RV31\INC"-I "D:\mps soft\ARM\CMSIS\Include"-I "D:\mps soft\ARM\Inc\TI\TM4C123"-DTM4C1233H6PM-o .\interuppt.o --omf_browse .\interuppt.crf --depend .\interuppt.d)
+I (D:\mps soft\ARM\Inc\TI\TM4C123\TM4C123.h)(0x51C883CE)
+I (D:\mps soft\ARM\Inc\TI\TM4C123\TM4C1233H6PM.h)(0x51C883CE)
+I (D:\mps soft\ARM\CMSIS\Include\core_cm4.h)(0x51C8883A)
+I (D:\mps soft\ARM\ARMCC\include\stdint.h)(0x51C88A34)
+I (D:\mps soft\ARM\CMSIS\Include\core_cmInstr.h)(0x51C8883A)
+I (D:\mps soft\ARM\CMSIS\Include\core_cmFunc.h)(0x51C8883A)
+I (D:\mps soft\ARM\CMSIS\Include\core_cm4_simd.h)(0x51C8883A)
+I (D:\mps soft\ARM\Inc\TI\TM4C123\system_TM4C123.h)(0x51C883CE)

@@ -1,0 +1,3 @@
+Dependencies for Project 'UART', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_TM4C123.s)(0x51C882A4)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I "D:\mps soft\ARM\RV31\INC"-I "D:\mps soft\ARM\CMSIS\Include"-I "D:\mps soft\ARM\Inc\TI\TM4C123"--list .\startup_tm4c123.lst --xref -o .\startup_tm4c123.o --depend .\startup_tm4c123.d)
+F (.\UART0.c)(0x654609DE)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I "D:\mps soft\ARM\RV31\INC"-I "D:\mps soft\ARM\CMSIS\Include"-I "D:\mps soft\ARM\Inc\TI\TM4C123"-DTM4C1233H6PM-o .\uart0.o --omf_browse .\uart0.crf --depend .\uart0.d)
