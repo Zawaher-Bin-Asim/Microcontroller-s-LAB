@@ -1,0 +1,22 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\Keil Projects\LED_Blinking.uvproj
+Project File Date:  10/12/2023
+
+<h2>Output:</h2>
+Rebuild target 'Target 1'
+assembling startup_TM4C123.s...
+compiling LED_Blinking.c...
+LED_Blinking.c(69): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=696 RO-data=636 RW-data=0 ZI-data=608  
+FromELF: creating hex file...
+".\LED_Blinking.axf" - 0 Errors, 1 Warning(s).
+Load "D:\\Keil Projects\\LED_Blinking.axf" 
+Connecting: Mode=JTAG, Speed=1000000Hz
+Erase Done.
+Programming Done.
+Verify OK.
