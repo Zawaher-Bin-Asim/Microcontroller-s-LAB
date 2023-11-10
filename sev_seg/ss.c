@@ -156,8 +156,11 @@ int main(void){
 	int i;
 	init_gpio();
 	while(1)
-		//display_1();
-	  // delay(10000);
-		display_2();
+	{
+		for ( i=0 ; i <100 ; i++){
+				display_1 ();}
+		for ( i=0 ; i <100 ; i++){
+				display_2 ();}
+	}
 	
 }
