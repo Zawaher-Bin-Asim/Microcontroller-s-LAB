@@ -60,8 +60,8 @@ void UARTInit(void)
 	// Configure GPIO as UART (AFSEL,PCTL,DEN)
 		GPIO_PORT_A_AFSEL_R	|= 0x03; 
 		GPIO_PORTA_PCTL_R |= 0x00000011;
-		GPIO_PORTA_DEN_R    |= 0x03:
-		GPIO_PORTA_DIR _R   |= 0x03:
+		GPIO_PORTA_DEN_R    |= 0x03;
+		GPIO_PORTA_DIR _R   |= 0x02;
 	//Disable UART
 	  UART0_CTL_R |= 0x300;
 	
