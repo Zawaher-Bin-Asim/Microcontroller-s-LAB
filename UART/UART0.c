@@ -101,7 +101,7 @@ void UARTRxString (char *pt, unsigned short max)
 			*pt = character;
 			pt++;
 			length++;
-			UARTTx(character+1);
+			UARTTx(character);
 		}
 		*pt = 0;
 		
