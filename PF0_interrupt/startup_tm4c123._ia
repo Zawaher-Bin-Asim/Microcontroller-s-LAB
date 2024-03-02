@@ -1,0 +1,5 @@
+--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork 
+-I "D:\mps soft\ARM\RV31\INC"
+-I "D:\mps soft\ARM\CMSIS\Include"
+-I "D:\mps soft\ARM\Inc\TI\TM4C123"
+--list .\startup_tm4c123.lst --xref -o .\startup_tm4c123.o --depend .\startup_tm4c123.d "startup_TM4C123.s"

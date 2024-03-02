@@ -1,0 +1,12 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\Keil Projects\Timer_PWM\Timer_PWM.uvproj
+Project File Date:  12/11/2023
+
+<h2>Output:</h2>
+Load "D:\\Keil Projects\\Timer_PWM\\Timer_PWM.axf" 
+Connecting: Mode=JTAG, Speed=1000000Hz
+Connection failed!, error code=&d

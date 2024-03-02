@@ -1,0 +1,6 @@
+-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork 
+-I "D:\mps soft\ARM\RV31\INC"
+-I "D:\mps soft\ARM\CMSIS\Include"
+-I "D:\mps soft\ARM\Inc\TI\TM4C123"
+-DTM4C1233H6PM
+-o .\pf0_led.o --omf_browse .\pf0_led.crf --depend .\pf0_led.d "PF0_LED.c"

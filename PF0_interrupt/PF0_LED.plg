@@ -1,0 +1,48 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\Keil Projects\PF0_interrupt\PF0_LED.uvproj
+Project File Date:  11/08/2023
+
+<h2>Output:</h2>
+Rebuild target 'Target 1'
+assembling startup_TM4C123.s...
+compiling PF0_LED.c...
+PF0_LED.c(16): warning:  #9-D: nested comment is not allowed
+linking...
+Program Size: Code=1040 RO-data=652 RW-data=4 ZI-data=612  
+FromELF: creating hex file...
+".\PF0_LED.axf" - 0 Errors, 1 Warning(s).
+Load "D:\\Keil Projects\\PF0_interrupt\\PF0_LED.axf" 
+Connecting: Mode=JTAG, Speed=1000000Hz
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Target 1'
+assembling startup_TM4C123.s...
+compiling PF0_LED.c...
+PF0_LED.c(16): warning:  #9-D: nested comment is not allowed
+linking...
+Program Size: Code=1040 RO-data=652 RW-data=4 ZI-data=612  
+FromELF: creating hex file...
+".\PF0_LED.axf" - 0 Errors, 1 Warning(s).
+Load "D:\\Keil Projects\\PF0_interrupt\\PF0_LED.axf" 
+Connecting: Mode=JTAG, Speed=1000000Hz
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Target 1'
+assembling startup_TM4C123.s...
+compiling PF0_LED.c...
+PF0_LED.c(16): warning:  #9-D: nested comment is not allowed
+linking...
+Program Size: Code=1040 RO-data=652 RW-data=4 ZI-data=612  
+FromELF: creating hex file...
+".\PF0_LED.axf" - 0 Errors, 1 Warning(s).
+Load "D:\\Keil Projects\\PF0_interrupt\\PF0_LED.axf" 
+Connecting: Mode=JTAG, Speed=1000000Hz
+Erase Done.
+Programming Done.
+Verify OK.

@@ -1,0 +1,58 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\Keil Projects\PWM\PWM.uvproj
+Project File Date:  12/11/2023
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling startup_TM4C123.s...
+compiling pwm.c...
+pwm.c(144): warning:  #177-D: variable "delay_clk" was declared but never referenced
+pwm.c(198): warning:  #191-D: type qualifier is meaningless on cast type
+pwm.c(208): warning:  #191-D: type qualifier is meaningless on cast type
+pwm.c(241): warning:  #191-D: type qualifier is meaningless on cast type
+pwm.c(251): warning:  #191-D: type qualifier is meaningless on cast type
+linking...
+.\PWM.axf: Error: L6218E: Undefined symbol DisableInterrupts (referred from pwm.o).
+.\PWM.axf: Error: L6218E: Undefined symbol EnableInterrupts (referred from pwm.o).
+.\PWM.axf: Error: L6218E: Undefined symbol EnablePriorityInterrupts (referred from pwm.o).
+".\PWM.axf" - 3 Errors, 5 Warning(s).
+Target not created
+Rebuild target 'Target 1'
+assembling startup_TM4C123.s...
+compiling pwm.c...
+pwm.c(144): warning:  #177-D: variable "delay_clk" was declared but never referenced
+pwm.c(198): warning:  #191-D: type qualifier is meaningless on cast type
+pwm.c(208): warning:  #191-D: type qualifier is meaningless on cast type
+pwm.c(241): warning:  #191-D: type qualifier is meaningless on cast type
+pwm.c(251): warning:  #191-D: type qualifier is meaningless on cast type
+linking...
+Program Size: Code=1228 RO-data=652 RW-data=8 ZI-data=608  
+".\PWM.axf" - 0 Errors, 5 Warning(s).
+Rebuild target 'Target 1'
+assembling startup_TM4C123.s...
+compiling pwm.c...
+pwm.c(144): warning:  #177-D: variable "delay_clk" was declared but never referenced
+linking...
+Program Size: Code=1364 RO-data=652 RW-data=8 ZI-data=608  
+".\PWM.axf" - 0 Errors, 1 Warning(s).
+Load "D:\\Keil Projects\\PWM\\PWM.axf" 
+Internal DLL Error
+Rebuild target 'Target 1'
+assembling startup_TM4C123.s...
+compiling pwm.c...
+pwm.c(144): warning:  #177-D: variable "delay_clk" was declared but never referenced
+linking...
+Program Size: Code=1364 RO-data=652 RW-data=8 ZI-data=608  
+FromELF: creating hex file...
+".\PWM.axf" - 0 Errors, 1 Warning(s).
+Load "D:\\Keil Projects\\PWM\\PWM.axf" 
+Warning: OSC to SWD clock ratio violation - SWD clock has been automatically adjusted to comply.
+Connecting: Mode=SWD, Speed=2666666Hz
+Full Chip Erase Done.
+Erase Done.
+Programming Done.
+Verify OK.
