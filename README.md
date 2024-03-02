@@ -8,5 +8,5 @@
 ## KEIL uVision 4
 [keil uVision](https://keil-vision.software.informer.com/4.0/)
 ## Putty 
-+ The serial interface for the UART is done by using the putty
++ The serial interface for the UART is done by using the 
   [PUTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
