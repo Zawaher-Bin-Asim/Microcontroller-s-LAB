@@ -1,0 +1,35 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\Keil Projects\OEL_WIFI\OEL_Wifi.uvproj
+Project File Date:  11/15/2023
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling OEL_Wifi.c...
+OEL_Wifi.c(248): warning:  #177-D: variable "string" was declared but never referenced
+OEL_Wifi.c(249): warning:  #177-D: variable "u" was declared but never referenced
+linking...
+Program Size: Code=1588 RO-data=636 RW-data=0 ZI-data=608  
+FromELF: creating hex file...
+".\OEL_Wifi.axf" - 0 Errors, 2 Warning(s).
+Load "D:\\Keil Projects\\OEL_WIFI\\OEL_Wifi.axf" 
+Connecting: Mode=JTAG, Speed=1000000Hz
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling OEL_Wifi.c...
+OEL_Wifi.c(248): warning:  #177-D: variable "string" was declared but never referenced
+OEL_Wifi.c(249): warning:  #177-D: variable "u" was declared but never referenced
+linking...
+Program Size: Code=1584 RO-data=636 RW-data=0 ZI-data=608  
+FromELF: creating hex file...
+".\OEL_Wifi.axf" - 0 Errors, 2 Warning(s).
+Load "D:\\Keil Projects\\OEL_WIFI\\OEL_Wifi.axf" 
+Connecting: Mode=JTAG, Speed=1000000Hz
+Erase Done.
+Programming Done.
+Verify OK.

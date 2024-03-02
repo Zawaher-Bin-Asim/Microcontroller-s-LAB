@@ -1,0 +1,120 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\Keil Projects\I2C_MPU650\MPU650.uvproj
+Project File Date:  11/22/2023
+
+<h2>Output:</h2>
+Rebuild target 'Target 1'
+assembling startup_TM4C123.s...
+compiling MPU650.c...
+linking...
+Program Size: Code=5976 RO-data=812 RW-data=0 ZI-data=632  
+FromELF: creating hex file...
+".\MPU650.axf" - 0 Errors, 0 Warning(s).
+Load "D:\\Keil Projects\\I2C_MPU650\\MPU650.axf" 
+Connecting: Mode=JTAG, Speed=1000000Hz
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling MPU650.c...
+linking...
+Program Size: Code=5976 RO-data=812 RW-data=0 ZI-data=632  
+FromELF: creating hex file...
+".\MPU650.axf" - 0 Errors, 0 Warning(s).
+Load "D:\\Keil Projects\\I2C_MPU650\\MPU650.axf" 
+Connecting: Mode=JTAG, Speed=1000000Hz
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling MPU650.c...
+linking...
+Program Size: Code=5976 RO-data=812 RW-data=0 ZI-data=632  
+FromELF: creating hex file...
+".\MPU650.axf" - 0 Errors, 0 Warning(s).
+Load "D:\\Keil Projects\\I2C_MPU650\\MPU650.axf" 
+Connecting: Mode=JTAG, Speed=1000000Hz
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Target 1'
+assembling startup_TM4C123.s...
+compiling MPU650.c...
+linking...
+Program Size: Code=5976 RO-data=812 RW-data=0 ZI-data=632  
+FromELF: creating hex file...
+".\MPU650.axf" - 0 Errors, 0 Warning(s).
+Load "D:\\Keil Projects\\I2C_MPU650\\MPU650.axf" 
+Connecting: Mode=JTAG, Speed=1000000Hz
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Target 1'
+assembling startup_TM4C123.s...
+compiling MPU650.c...
+linking...
+Program Size: Code=5976 RO-data=812 RW-data=0 ZI-data=632  
+FromELF: creating hex file...
+".\MPU650.axf" - 0 Errors, 0 Warning(s).
+Load "D:\\Keil Projects\\I2C_MPU650\\MPU650.axf" 
+Connecting: Mode=JTAG, Speed=1000000Hz
+Erase Done.
+Programming Done.
+Verify OK.
+Load "D:\\Keil Projects\\I2C_MPU650\\MPU650.axf" 
+Connecting: Mode=JTAG, Speed=1000000Hz
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Target 1'
+assembling startup_TM4C123.s...
+compiling MPU650.c...
+linking...
+Program Size: Code=5976 RO-data=812 RW-data=0 ZI-data=632  
+FromELF: creating hex file...
+".\MPU650.axf" - 0 Errors, 0 Warning(s).
+Load "D:\\Keil Projects\\I2C_MPU650\\MPU650.axf" 
+Connecting: Mode=JTAG, Speed=1000000Hz
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Target 1'
+assembling startup_TM4C123.s...
+compiling MPU650.c...
+linking...
+Program Size: Code=6172 RO-data=812 RW-data=0 ZI-data=632  
+FromELF: creating hex file...
+".\MPU650.axf" - 0 Errors, 0 Warning(s).
+Load "D:\\Keil Projects\\I2C_MPU650\\MPU650.axf" 
+Connecting: Mode=JTAG, Speed=1000000Hz
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Target 1'
+assembling startup_TM4C123.s...
+compiling MPU650.c...
+linking...
+Program Size: Code=6172 RO-data=812 RW-data=0 ZI-data=632  
+FromELF: creating hex file...
+".\MPU650.axf" - 0 Errors, 0 Warning(s).
+Load "D:\\Keil Projects\\I2C_MPU650\\MPU650.axf" 
+Connecting: Mode=JTAG, Speed=1000000Hz
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Target 1'
+assembling startup_TM4C123.s...
+compiling MPU650.c...
+linking...
+Program Size: Code=6172 RO-data=812 RW-data=0 ZI-data=632  
+FromELF: creating hex file...
+".\MPU650.axf" - 0 Errors, 0 Warning(s).
+Load "D:\\Keil Projects\\I2C_MPU650\\MPU650.axf" 
+Connecting: Mode=JTAG, Speed=1000000Hz
+Erase Done.
+Programming Done.
+Verify OK.
