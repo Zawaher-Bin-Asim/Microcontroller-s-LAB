@@ -7,3 +7,6 @@
 + The links for  the all requirements are given below
 ## KEIL uVision 4
 [keil uVision](https://keil-vision.software.informer.com/4.0/)
+## Putty 
++ The serial interface for the UART is done by using the putty
+  [PUTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
